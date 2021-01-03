@@ -12,7 +12,7 @@ data:
     []
 kind: ConfigMap
 metadata:
-  creationTimestamp: "2021-01-03T07:52:47Z"
+  creationTimestamp: "2021-01-03T10:34:19Z"
   managedFields:
   - apiVersion: v1
     fieldsType: FieldsV1
@@ -23,9 +23,9 @@ metadata:
         f:mapUsers: {}
     manager: eksctl.exe
     operation: Update
-    time: "2021-01-03T07:52:47Z"
+    time: "2021-01-03T10:34:19Z"
   name: aws-auth
   namespace: kube-system
-  resourceVersion: "1494"
+  resourceVersion: "1530"
   selfLink: /api/v1/namespaces/kube-system/configmaps/aws-auth
-  uid: a81fb930-ccc6-430e-a655-22858c18a636
+  uid: 10d79d13-41bf-40e9-9b4d-a9cb9087fe1a
