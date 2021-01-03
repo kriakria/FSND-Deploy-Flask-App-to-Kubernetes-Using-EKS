@@ -16,7 +16,7 @@ Parameters:
 
   GitSourceRepo:
     Type: String
-    Description: FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS
+    Description: GitHub git repository
     Default: FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS 
     MinLength: 1
     MaxLength: 100
